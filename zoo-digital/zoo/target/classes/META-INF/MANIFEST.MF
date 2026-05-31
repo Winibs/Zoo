@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Main-Class: br.edu.atitus.winicius_bertoncello.zoo_digital.app.ZooDigita
+ lApp
+Created-By: Maven Integration for Eclipse
+
